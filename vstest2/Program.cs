@@ -10,6 +10,7 @@ namespace vstest2
 	{
 		static void Main(string[] args)
 		{
+
 		}
 	}
 }
